@@ -11,18 +11,18 @@ public class Trianglesq{
 
 	double a, b, c;
 
-	System.out.println ("Введите длину катета а");
+	System.out.println ("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ");
 
 	a = user_input.nextDouble();
 
-	System.out.println ("Введите длину катета b");
+	System.out.println ("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ b");
 
 	b = user_input.nextDouble();
 
 	c = a*b/2;
 
-	System.out.print ("Площадь прямоугольного треугольника"+" "+ c +" см квадратных");
-	
+	System.out.print ("пїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ"+" "+ c +" пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+	System.out.println ("The end");
 	}
 
 }
